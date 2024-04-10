@@ -1,0 +1,9 @@
+const accountId = 1234;
+let accountEmail = "gopal@google.com";
+var accountPassword = "9832";
+accountCity = "Beengal";
+
+accountId = 2;
+
+console.log("accountId");
+
